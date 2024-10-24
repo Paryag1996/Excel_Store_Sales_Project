@@ -13,3 +13,8 @@ Key Features:
 This project showcases my skills in Excel, including data manipulation, analysis, and visualization.
 
 Explore the full analysis and insights to see how we can optimize 
+
+Dashboard: 
+
+![Sales Dashboard](https://github.com/user-attachments/assets/801a5965-465a-472c-87ca-15ccbb38fbf0)
+
